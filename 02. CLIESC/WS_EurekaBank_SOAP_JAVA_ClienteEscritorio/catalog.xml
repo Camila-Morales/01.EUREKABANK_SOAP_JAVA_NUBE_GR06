@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://192.168.100.23:8080/WS_Eureka/WSEureka?WSDL" uri="xml-resources/web-service-references/WSEureka_1/wsdl/192.168.100.23_8080/WS_Eureka/WSEureka.wsdl"/>
+    <system systemId="http://192.168.100.23:8080/WS_Eureka/WSEureka?xsd=1" uri="xml-resources/web-service-references/WSEureka_1/wsdl/192.168.100.23_8080/WS_Eureka/WSEureka.xsd_1.xsd"/>
+    <system systemId="http://10.40.25.44:8080/WS_Eureka/WSEureka?wsdl" uri="xml-resources/web-service-references/WSEureka_2/wsdl/10.40.25.44_8080/WS_Eureka/WSEureka.wsdl"/>
+    <system systemId="http://10.40.25.44:8080/WS_Eureka/WSEureka?xsd=1" uri="xml-resources/web-service-references/WSEureka_2/wsdl/10.40.25.44_8080/WS_Eureka/WSEureka.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/WS_Eureka/WSEureka?wsdl" uri="xml-resources/web-service-references/WSEureka/wsdl/localhost_8080/WS_Eureka/WSEureka.wsdl"/>
+    <system systemId="http://localhost:8080/WS_Eureka/WSEureka?xsd=1" uri="xml-resources/web-service-references/WSEureka/wsdl/localhost_8080/WS_Eureka/WSEureka.xsd_1.xsd"/>
+    <system systemId="http://10.40.16.215:8080/WS_Eureka/WSEureka?wsdl" uri="xml-resources/web-service-references/WSEureka/wsdl/10.40.16.215_8080/WS_Eureka/WSEureka.wsdl"/>
+    <system systemId="http://10.40.16.215:8080/WS_Eureka/WSEureka?xsd=1" uri="xml-resources/web-service-references/WSEureka/wsdl/10.40.16.215_8080/WS_Eureka/WSEureka.xsd_1.xsd"/>
+</catalog>
